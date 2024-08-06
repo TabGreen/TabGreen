@@ -43,3 +43,11 @@ tab符会被全部删除，
 [6w3-lblrmcv35@dingtalk.com](mailto:6w3-lblrmcv35@dingtalk.com)
 
 或者，我的一些主页
+
+[Bilibili设计师文充](https://space.bilibili.com/3493280864013042)
+
+[网易云音乐](https://music.163.com/#/user/home?id=9271525483)
+
+[GitHub](https://github.com/tabcwc)
+
+[PlayCanvas](https://playcanvas.com/user/tab_cwc)
