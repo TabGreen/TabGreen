@@ -24,7 +24,7 @@ tab符会被全部删除，
 
 
 以上内容均可以在
-[我的UP主之路.pptx](https://www.123pan.com/s/ahH5Vv-wyDOA.html)中找到
+[我的UP主之路.pptx](我的UP主之路.pptx)中找到
 
 ## 我爱B站
 你可能已经猜到，我是一位来自B站的UP主。
