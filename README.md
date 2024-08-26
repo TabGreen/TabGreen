@@ -52,6 +52,8 @@ tg-log.pages.dev](https://tg-log.pages.dev/)
 
 ## 别走,还有!
 
+[记住我的名言](记住我的名言.txt)
+
 关注我!!!
 
 三连!!!
