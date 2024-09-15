@@ -1,5 +1,9 @@
 # 你好,我是Tab Cloud Green
 
+# 每日图片
+
+![dailybing.com/api/v1](https://dailybing.com/api/v1)
+
 ## 我爱B站
 你可能已经猜到，我是一位来自B站的UP主。
 没错，我平时主要活跃在B站和GitHub
