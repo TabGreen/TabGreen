@@ -1,6 +1,6 @@
 # 你好,我是Tab Cloud Green
 
-# 每日图片
+## bing每日图片
 
 ![dailybing.com/api/v1](https://dailybing.com/api/v1)
 
