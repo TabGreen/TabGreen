@@ -1,6 +1,6 @@
 # 你好,我是Tab Cloud Green
 
-## bing每日图片
+## bing每日图片(如果你看到此图片更新,则说明README文件发生了变化)
 
 ![dailybing.com/api/v1](https://dailybing.com/api/v1)
 
